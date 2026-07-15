@@ -1,0 +1,6 @@
+scipy
+colorama
+Pillow
+pyautogui
+psutil
+opencv-python
